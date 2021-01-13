@@ -30,4 +30,6 @@
   <a href="#" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="35" height="35"/> </a> 
  <a href="#" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="35" height="35"/> </a> </p>
 
+<a href="https://github.com/pankaj-bit">
 <img src="https://github-readme-stats.vercel.app/api?username=pankaj-bit&&show_icons=true&title_color=black&icon_color=00a8d6&bg_color=ffffff" alt="image">
+  <a>
