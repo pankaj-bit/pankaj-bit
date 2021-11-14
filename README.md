@@ -9,7 +9,6 @@
 <a href="https://t.me/pankajshendurkar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="pankaj_vit" height="25" width="35" /></a>
 </p>
 
-- 🔭 I’m currently working on React
 - 🌱 I’m currently learning more about Flutter.
 - 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/pankaj-shendurkar-55a9a4175/" >Linkedin<a>.
 - 🤔 I’m looking for help with Flutter.
