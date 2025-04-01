@@ -1,4 +1,4 @@
-### Hallo, I'm Pankaj Shendurkar! 👋
+### Hello, I'm Pankaj Shendurkar! 👋
 
 <img src="https://komarev.com/ghpvc/?username=pankaj-bit&label=Views&color=blue&style=plastic" alt="views">
 
